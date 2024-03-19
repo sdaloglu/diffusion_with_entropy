@@ -6,3 +6,7 @@
 
 #MNIST data
 /data/
+
+
+# Add png files
+*.png
