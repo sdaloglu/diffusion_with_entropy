@@ -64,7 +64,12 @@ The metric plots for SSIM and PSNR are saved inside the `plots` directory as wel
 
 ChatGPT 3.5 was used for suggesting alternative wordings, grammar suggestions, and proofreading while writing the report. The following prompts were used during this process
 
-
+```
+How can I write this equation in LaTeX format? <input equation>
+```
+```
+Provide BibTex citation format for this website  <input website>
+```
 ```
 How to represent/write <input symbol> in LaTeX?
 ```
@@ -80,9 +85,9 @@ Is this paragraph clear for a reader? <input paragraph>
 ```
 How to rephrase this sentence to make it more clear? <input sentence>
 ```
-The outputs were partially adapted in a way that only alternative wordings were used and not the whole output while rephrasing the conclusion and introduction parts of the report. The LateX suggestions were used for refining the symbols and decay channel equations.
+For the report writing, the outputs were partially adapted in a way that only alternative wordings were used and not the whole output while rephrasing the discussion parts of the report. The LaTex code for equations was adapted from the suggestion. The suggestions for BibTeX citations are also adapted.
 
-Furthermore, the suggestions from the autocomplete feature of `GitHub Copilot` were utilized during the documentation of the software, and code development of the project such as writing the LaTex format labels for the plots generated.
+Furthermore, the suggestions from the autocomplete feature of `GitHub Copilot` were utilized during the documentation of the software, and code development of the project such as adjusting the style of the plots generated.
 
 ## Authors
 Sabahattin Mert Daloglu
