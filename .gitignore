@@ -8,8 +8,6 @@
 /data/
 
 
-# Add png files
-*.png
 
 # Add .gif files
 *.gif
