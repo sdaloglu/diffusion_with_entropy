@@ -5,7 +5,7 @@
 
 This project contains the code required to address the coursework questions for the Application of Machine Learning. The goal of this project is to demonstrate a practical approach to training Denoising Diffusion Probabilistic Models, highlighting the impact of various hyperparameters on model performance through established metrics and visual inspection of generated samples. Moreover, it introduces an innovative custom degradation technique that integrates entropy calculations with noise modulation, offering a nuanced approach to model training.
 
-![Alt Text](gifs/ddpm_samples.gif)
+![Alt Text](contents_custom_largen_hidens/ddpm_samples.gif)
 
 
 ## Installation
