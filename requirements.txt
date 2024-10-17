@@ -1,0 +1,13 @@
+accelerate==0.27.2
+ipykernel==6.29.2
+ipython==8.21.0
+jupyter
+nbconvert
+nbclient
+numpy==1.26.4
+pandas
+matplotlib
+pytorch_msssim
+torch==2.2.0
+torchvision==0.17.0
+tqdm==4.66.2
